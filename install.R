@@ -1,3 +1,3 @@
 install.packages("psych")
 install.packages("tidyverse")
-install.packages("lsr")
+install.packages("effsize")
